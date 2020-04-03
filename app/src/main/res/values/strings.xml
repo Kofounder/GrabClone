@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GrabClone</string>
+
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque auctor, nibh ultricies maximus consequat, dolor nibh fermentum nisl, et pretium diam ex vel nisl. Proin iaculis est id aliquet pellentesque. Nam nec est vitae nisl tristique blandit. Sed tristique purus elit, in tristique massa iaculis sed. Fusce nec arcu mi. Etiam id lacus maximus</string>
+    <string name="sisa_saldo">Sisa Saldo</string>
+    <string name="saldo">90.000</string>
+    <string name="rp">RP</string>
+    <string name="lorem">Lorem</string>
+    <string name="lorem_ipsum">Lorem Ipsum</string>
+
+    <string name="telusuri">Telusuri Layanan</string>
+    <string name="cek">Cek semua layanan kami</string>
+
+    <string name="item">Item</string>
+    <string name="user">1,234</string>
+    <string name="service">Service</string>
+
+    <string name="news">News</string>
+    <string name="inbox">Inbox</string>
+    <string name="calendar">Calendar</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+</resources>
